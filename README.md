@@ -16,3 +16,9 @@ conventional and other neural network-based approaches, and takes a step toward
 rapid and targeted biomolecular design with the aid of deep generative models.<br>
 [[NIPS 2019]](http://papers.nips.cc/paper/9711-generative-models-for-graph-based-protein-design)
 [[Github]](https://github.com/jingraham/neurips19-graph-protein-design)
+
+#### Contribution
+Feel free to send a pull request.
+
+#### License
+[MIT](LICENSE)
