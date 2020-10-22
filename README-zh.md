@@ -14,8 +14,8 @@
 [[NIPS 2019]](http://papers.nips.cc/paper/9163-evaluating-protein-transfer-learning-with-tape)
 [[Github]](https://github.com/songlab-cal/tape)
 
-#### Contribution
+### Contribution
 Feel free to send a pull request.
 
-#### License
+### License
 [MIT](LICENSE)
