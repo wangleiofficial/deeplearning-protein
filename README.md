@@ -24,6 +24,11 @@ Alley, E.C., Khimulya, G., Biswas, S. et al. 2019<br>
 [[Nature Methods]](https://www.nature.com/articles/s41592-019-0598-1)
 [[Github]](https://github.com/churchlab/UniRep)
 
+* **CogMol: Target-Specific and Selective Drug Design for COVID-19 Using Deep Generative Models**<br>
+Das P, Sercu T, Wadhawan K, et al. 2020<br>
+[[NIPS 2020]](https://arxiv.org/abs/2005.11248)
+[[Web server]](https://covid19-mol.mybluemix.net/?cm_mc_uid=11706457434015826281029&cm_mc_sid_50200000=11000621603452907715&_ga=2.229645532.1990411755.1603452908-418799736.1599578251)
+
 ### Contribution
 Feel free to send a pull request.
 
