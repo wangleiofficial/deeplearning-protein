@@ -43,6 +43,19 @@ Du Y, Meier J, Ma J, et al. 2020<br>
 **描述**：基于能量模型预测原子分辨率级别的蛋白质构象<br>
 [[ICLR 2020]](http://www.openreview.net/pdf?id=S1e_9xrFvS)
 [[Github]](https://github.com/facebookresearch/protein-ebm)
+
+* **Learning Protein Structure with a Differentiable Simulator**<br>
+Ingraham J, Riesselman A J, Sander C, et al. 2019<br>
+**描述**：基于Langevin动力学的新型高效模拟器来构成神经能量函数，以在给定氨基酸序列信息的情况下构建蛋白质结构的端到端模型<br>
+[[ICLR 2019]](https://openreview.net/forum?id=Byg3y3C9Km)
+[[Github]](https://github.com/debbiemarkslab/NEMO)
+
+* **Human-level Protein Localization with Convolutional Neural Networks**
+Rumetshofer E, Hofmarcher M, Röhrl C, et al. 2019<br>
+**描述**：使用卷积神经网络预测人类蛋白定位<br>
+[[ICLR 2019]](https://openreview.net/forum?id=ryl5khRcKm)
+[[Github]](https://github.com/ml-jku/gapnet-pl)
+
 ### Contribution
 Feel free to send a pull request.
 
