@@ -44,7 +44,7 @@ Ingraham J, Riesselman A J, Sander C, et al. 2019<br>
 [[ICLR 2019]](https://openreview.net/forum?id=Byg3y3C9Km)
 [[Github]](https://github.com/debbiemarkslab/NEMO)
 
-* **Human-level Protein Localization with Convolutional Neural Networks**
+* **Human-level Protein Localization with Convolutional Neural Networks**<br>
 Rumetshofer E, Hofmarcher M, Röhrl C, et al. 2019<br>
 [[ICLR 2019]](https://openreview.net/forum?id=ryl5khRcKm)
 [[Github]](https://github.com/ml-jku/gapnet-pl)
