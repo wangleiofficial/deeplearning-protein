@@ -37,6 +37,12 @@ Townshend R, Bedi R, Suriana P, et al. 2019<br>
 **描述**：用于接口预测的3D蛋白质结构的端到端学习<br>
 [[NIPS 2019]](https://papers.nips.cc/paper/9695-end-to-end-learning-on-3d-protein-structure-for-interface-prediction)
 [[Github]](https://github.com/drorlab/DIPS)
+
+* **Energy-based models for atomic-resolution protein conformations**<br>
+Du Y, Meier J, Ma J, et al. 2020<br>
+**描述**：基于能量模型预测原子分辨率级别的蛋白质构象<br>
+[[ICLR 2020]](http://www.openreview.net/pdf?id=S1e_9xrFvS)
+[[Github]](https://github.com/facebookresearch/protein-ebm)
 ### Contribution
 Feel free to send a pull request.
 
