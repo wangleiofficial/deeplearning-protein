@@ -57,6 +57,11 @@ Chen H, Li J 2020<br>
 Liu Y, Yuan H, Cai L, et al. 2020<br>
 [[KDD 2020]](https://dl.acm.org/doi/10.1145/3394486.3403110)
 
+* **DeepGS: Deep Representation Learning of Graphs and Sequences for Drug-Target Binding Affinity Prediction**<br>
+Lin X, Zhao K, Xiao T, et al. 2020<br>
+[[ECAI 2020]](https://arxiv.org/pdf/2003.13902.pdf)
+[[Github]](https://github.com/jacklin18/DeepGS)
+
 ### Contribution
 Feel free to send a pull request.
 

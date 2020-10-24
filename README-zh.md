@@ -66,6 +66,12 @@ Liu Y, Yuan H, Cai L, et al. 2020<br>
 **描述**：使用深度学习预测蛋白质接口的高阶相互作用<br>
 [[KDD 2020]](https://dl.acm.org/doi/10.1145/3394486.3403110)
 
+* **DeepGS: Deep Representation Learning of Graphs and Sequences for Drug-Target Binding Affinity Prediction**<br>
+Lin X, Zhao K, Xiao T, et al. 2020<br>
+**描述**：使用深度学习预测药物和蛋白质靶标的亲和性<br>
+[[ECAI 2020]](https://arxiv.org/pdf/2003.13902.pdf)
+[[Github]](https://github.com/jacklin18/DeepGS)
+
 ### Contribution
 Feel free to send a pull request.
 
