@@ -49,6 +49,14 @@ Rumetshofer E, Hofmarcher M, Röhrl C, et al. 2019<br>
 [[ICLR 2019]](https://openreview.net/forum?id=ryl5khRcKm)
 [[Github]](https://github.com/ml-jku/gapnet-pl)
 
+* **Learning Data-Driven Drug-Target-Disease Interaction via Neural Tensor Network**<br>
+Chen H, Li J 2020<br>
+[[IJCAI 2020]](https://www.ijcai.org/Proceedings/2020/0477.pdf)
+
+* **Deep Learning of High-Order Interactions for Protein Interface Prediction**<br>
+Liu Y, Yuan H, Cai L, et al. 2020<br>
+[[KDD 2020]](https://dl.acm.org/doi/10.1145/3394486.3403110)
+
 ### Contribution
 Feel free to send a pull request.
 
