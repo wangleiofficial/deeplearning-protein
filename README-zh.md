@@ -72,6 +72,12 @@ Lin X, Zhao K, Xiao T, et al. 2020<br>
 [[ECAI 2020]](https://arxiv.org/pdf/2003.13902.pdf)
 [[Github]](https://github.com/jacklin18/DeepGS)
 
+* **Improved protein structure prediction using potentials from deep learning**<br>
+Senior A W, Evans R, Jumper J, et al. 2020<br>
+**描述**：alphafold:主要是改进预测contact的距离分布来提升蛋白质结构的预测<br>
+[[Nature]](https://www.nature.com/articles/s41586-019-1923-7)
+[[Github]](https://github.com/deepmind/deepmind-research/tree/master/alphafold_casp13)
+
 ### Contribution
 Feel free to send a pull request.
 
